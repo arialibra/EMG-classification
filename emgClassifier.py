@@ -21,7 +21,7 @@ classifications of movement: hand at rest (1), hand clenched in a fist (2), wris
 (3), wrist extension (4), radial deviations (5), and ulnar deviations (6)
     
 Created on Thu Feb 13 19:25:54 2020
-@author: Qiyang Ma
+@author: Hongya Lu
 """
 
 import numpy as np
